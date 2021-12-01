@@ -14,3 +14,4 @@ Makefile.bak
 /src/tests/tests
 /debug.sh
 /callgrind.sh
+venv/
